@@ -48,7 +48,7 @@ them.
 
     [ruby_koans] $ rake gen                       # generates the koans directory
 
-If you need to regenerate the koans, thus wiping your current `koans`,
+If you need to regenerate the koans, thus wiping your current `koans`.
 
     [ruby_koans] $ rake regen                     # regenerates the koans directory, wiping the original
 
